@@ -6,13 +6,13 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.box}>
-        <Text style={styles.box}>#1a</Text>
+        <Text style={styles.boxText}>#1a</Text>
       </View>
       <View style={styles.box}>
-        <Text style={styles.box}>#2a</Text>
+        <Text style={styles.boxText}>#2a</Text>
       </View>
       <View style={styles.box}>
-        <Text style={styles.box}>#3a</Text>
+        <Text style={styles.boxText}>#3a</Text>
       </View>
       <StatusBar style="auto" />
     </View>
